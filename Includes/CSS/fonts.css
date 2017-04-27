@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'AvenirNext-regular';
+  src: url('../fonts/AvenirNextLTPro-Regular.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/AvenirNextLTPro-Regular.woff') format('woff'),
+  url('../fonts/AvenirNextLTPro-Regular.ttf')  format('truetype'), 
+  url('../fonts/AvenirNextLTPro-Regular.svg#AvenirNextLTPro-Regular') format('svg');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirNext-medium';
+  src: url('../fonts/AvenirNextLTPro-Medium.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/AvenirNextLTPro-Medium.woff') format('woff'), 
+  url('../fonts/AvenirNextLTPro-Medium.ttf')  format('truetype'), 
+  url('../fonts/AvenirNextLTPro-Medium.svg#AvenirNextLTPro-Medium') format('svg');
+  font-weight: 500;
+  font-style: medium;
+}
+
+
+@font-face {
+  font-family: 'AvenirNext-bold';
+  src: url('../fonts/AvenirNextLTPro-Bold.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/AvenirNextLTPro-Bold.woff') format('woff'), 
+  url('../fonts/AvenirNextLTPro-Bold.ttf')  format('truetype'), 
+  url('../fonts/AvenirNextLTPro-Bold.svg#AvenirNextLTPro-Bold') format('svg');
+  font-weight: 700;
+  font-style: bold;
+}

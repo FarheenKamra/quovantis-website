@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="18px" viewBox="0 0 23 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page-Assets" transform="translate(-3045.000000, -41.000000)" fill="#2CAEBF">
+            <g id="Group-4" transform="translate(3045.000000, 41.000000)">
+                <g id="Group-3">
+                    <g id="Group-2">
+                        <g id="Group">
+                            <path d="M0,1 C0,0.44771525 0.453191414,0 1.00412734,0 L21.6833727,0 C22.2379369,0 22.6875,0.443864822 22.6875,1 C22.6875,1.55228475 22.2343086,2 21.6833727,2 L1.00412734,2 C0.449563125,2 0,1.55613518 0,1 Z M5.984375,9 C5.984375,8.44771525 6.43950186,8 6.98525428,8 L21.9991207,8 C22.5518911,8 23,8.44386482 23,9 C23,9.55228475 22.5448731,10 21.9991207,10 L6.98525428,10 C6.43248392,10 5.984375,9.55613518 5.984375,9 Z M5.984375,17 C5.984375,16.4477153 6.43950186,16 6.98525428,16 L21.9991207,16 C22.5518911,16 23,16.4438648 23,17 C23,17.5522847 22.5448731,18 21.9991207,18 L6.98525428,18 C6.43248392,18 5.984375,17.5561352 5.984375,17 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

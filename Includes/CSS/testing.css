@@ -1,0 +1,39 @@
+.container {
+    width: 200px;
+    height: 200px;
+    background: #999;
+    border: 1px solid #000;
+    
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+    
+.box {
+    /* By default those boxes are not vertically flexible. */
+    -webkit-flex: none;
+    flex: none;
+}
+
+.box.flexible {
+    /* Here flex-grow is 1 so this box can be vertically reduced. */
+    -webkit-flex: 1 1 auto;
+    flex: 1 1 auto;
+    overflow: auto;
+}
+
+.box.red {
+    background: red;
+    height: 25px;
+}
+
+.box.yellow {
+    background: yellow;
+    height: auto;  /* Same if this line is commented */
+}
+
+.box.green {
+    background: green;
+    height: 50px;
+}
